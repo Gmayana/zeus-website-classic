@@ -325,8 +325,8 @@
 						email: true,
 					},
 					phone:{
-						required: true,
-						digits: true,
+						required: false,
+						digits: ,
 					},
 					subject:{
 						required: true,
